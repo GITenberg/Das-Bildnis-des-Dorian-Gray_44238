@@ -1,0 +1,45 @@
+_repo: Das-Bildnis-des-Dorian-Gray_44238
+_version: 0.1.0
+alternative_title: The picture of Dorian Gray. German
+contributor:
+  translator:
+    agent_name: Zoozmann, Richard
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '42648'
+    url: http://www.gutenberg.org/2009/agents/42648
+covers:
+- cover_type: archival
+  image_path: 44238-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2013-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44238'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+title: Das Bildnis des Dorian Gray
+url: http://www.gutenberg.org/ebooks/44238
