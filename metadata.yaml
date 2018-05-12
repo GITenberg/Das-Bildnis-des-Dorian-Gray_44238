@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44238#Das-Bildnis-des-Dorian-Gray
 gutenberg_issued: '2013-11-20'
 gutenberg_type: Text
 identifiers:
